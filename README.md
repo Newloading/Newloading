@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil 👋
 
-Meu nome é nome sobrenome
+Meu nome é Renan Felipe
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 
